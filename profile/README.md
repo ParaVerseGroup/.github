@@ -1,5 +1,4 @@
 # ParaVerse Simulator
-Visual-Environment Simulator for ParaVerse (Backend)
 
 <div align="center">
  <img src="../assets/logo/paraverse_logo_light_mode.png" width="400px">
