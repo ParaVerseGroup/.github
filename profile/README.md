@@ -1,7 +1,7 @@
 # ParaVerse Simulator
 
 <div align="center">
- <img src="../assets/logo/paraverse_logo_light_mode.png" width="400px">
+ <img src="assets/logo/paraverse_logo_light_mode.png" width="400px">
 </div>
 
 
