@@ -5,7 +5,7 @@
 </div>
 
 
-**ParaVerse(Parallel Universe)** is a scalable and flexible Everything to Vehicle (X2V) smart city simulator for researchers 
+**ParaVerse(Parallel Universe)** is a scalable and flexible Everything to Vehicle (X2V) smart city AImulator (**AI**-based Si**mulater**) for researchers 
 and developers to test their scenarios and ideas with minimum effort.
 
 If you are looking for a quick warm-up with ParaVerse and our group, 
